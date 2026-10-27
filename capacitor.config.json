@@ -1,0 +1,9 @@
+{
+  "appId": "com.khurram.hauntedescape",
+  "appName": "Haunted Escape",
+  "webDir": "game",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0a0613"
+  }
+}
